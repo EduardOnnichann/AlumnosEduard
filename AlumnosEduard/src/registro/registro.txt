@@ -1,0 +1,1 @@
+Alumno{nombre=Eduard, apellido=Caringal, edad=18, curso=DAM, dni=23857910X}
